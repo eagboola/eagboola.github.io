@@ -31,6 +31,7 @@ body {
 
 p {
 /* Nothing Yet */
+    color: (blue);
 }
 
 a:link {
@@ -50,4 +51,12 @@ a:visited {
 h1 {
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 100px;
+    color:white;
+}
+
+h3  {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 45px;
+    color:blue;
+    align-content:left;
 }
